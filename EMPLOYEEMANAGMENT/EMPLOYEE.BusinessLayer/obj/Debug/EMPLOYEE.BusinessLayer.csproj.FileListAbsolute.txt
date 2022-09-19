@@ -1,0 +1,12 @@
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.BusinessLayer\bin\Debug\EMPLOYEE.BusinessLayer.dll
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.BusinessLayer\bin\Debug\EMPLOYEE.BusinessLayer.pdb
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.BusinessLayer\bin\Debug\EMPLOYEE.DataLayer.dll
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.BusinessLayer\bin\Debug\EMPLOYEE.Entities.dll
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.BusinessLayer\bin\Debug\EMPLOYEE.DataLayer.pdb
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.BusinessLayer\bin\Debug\EMPLOYEE.DataLayer.dll.config
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.BusinessLayer\bin\Debug\EMPLOYEE.Entities.pdb
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.BusinessLayer\obj\Debug\EMPLOYEE.BusinessLayer.csproj.AssemblyReference.cache
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.BusinessLayer\obj\Debug\EMPLOYEE.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.BusinessLayer\obj\Debug\EMPLOYEE.BusinessLayer.csproj.CopyComplete
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.BusinessLayer\obj\Debug\EMPLOYEE.BusinessLayer.dll
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.BusinessLayer\obj\Debug\EMPLOYEE.BusinessLayer.pdb

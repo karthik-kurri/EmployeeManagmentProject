@@ -1,0 +1,6 @@
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.Entities\bin\Debug\EMPLOYEE.Entities.dll
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.Entities\bin\Debug\EMPLOYEE.Entities.pdb
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.Entities\obj\Debug\EMPLOYEE.Entities.csproj.AssemblyReference.cache
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.Entities\obj\Debug\EMPLOYEE.Entities.csproj.CoreCompileInputs.cache
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.Entities\obj\Debug\EMPLOYEE.Entities.dll
+E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.Entities\obj\Debug\EMPLOYEE.Entities.pdb
