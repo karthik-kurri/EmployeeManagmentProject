@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="WebForm5.aspx.cs" Inherits="WebApplication.WebForm5" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server"><br /><br />
-    <asp:GridView ID="GridView1" runat="server" AllowPaging="True" AllowSorting="True" AutoGenerateColumns="False" DataKeyNames="Eid" DataSourceID="SqlDataSource1" ForeColor="#CC0000">
+    <asp:GridView ID="GridView1" runat="server" AllowPaging="True" AllowSorting="True" AutoGenerateColumns="False" DataKeyNames="Eid" DataSourceID="SqlDataSource1" ForeColor="#CC0000" BackColor="White">
     <Columns>
         <asp:CommandField ShowDeleteButton="True" ShowEditButton="True" ShowSelectButton="True" />
         <asp:BoundField DataField="Eid" HeaderText="Eid" ReadOnly="True" SortExpression="Eid" />

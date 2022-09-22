@@ -1,20 +1,15 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="WebApplication.WebForm1" %>
 
 <script runat="server">
-
-    protected void Eid_TextChanged(object sender, EventArgs e)
-    {
-
-    }
 </script>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <br /><br />
-    <table align="center" style="width: 50%" ForeColor="#CC6699">
+    <table align="center" style="width: 50%; background-color: #FFFFFF;" ForeColor="#CC6699">
         <tr>
             <td style="height: 25px; color: #FF00FF;">EMPLOYEEID*</td>
             <td style="height: 25px">
-                <asp:TextBox ID="Eid" runat="server" OnTextChanged="Eid_TextChanged" ForeColor="Red"></asp:TextBox>
+                <asp:TextBox ID="Eid" runat="server" ForeColor="Red"></asp:TextBox>
                 <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="please enter Eid" ControlToValidate="Eid"></asp:RequiredFieldValidator>
             </td>
         </tr>

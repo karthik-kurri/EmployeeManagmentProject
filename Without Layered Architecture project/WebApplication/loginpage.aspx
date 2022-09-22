@@ -4,7 +4,7 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server"><br />
     <br />
-    <table align="center" style="width: 50%">
+    <table align="center" style="width: 50%; background-image: url('images/img2.jpg');">
         <tr>
             <td style="color: #FF00FF">user name<asp:TextBox ID="username" runat="server" Width="196px" ForeColor="Red"></asp:TextBox>
             </td>

@@ -17,7 +17,7 @@
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
 </head>
-<body style="background-image:url('https://biz30.timedoctor.com/images/2020/01/employee-management.jpg')" >
+<body style="background-image:url('images/img1.jpeg')" >
     <form runat="server">
      
         <asp:ScriptManager runat="server">
@@ -57,6 +57,7 @@
                         <li><a runat="server" href="loginpage.aspx">Home</a></li>
                         <li><a runat="server" href="~/About">About</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
+                         <li><a runat="server" href="loginpage.aspx">Logout</a></li>
                     </ul>
                 </div>
             </div>

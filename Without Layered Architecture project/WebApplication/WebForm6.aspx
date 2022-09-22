@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="WebForm6.aspx.cs" Inherits="WebApplication.WebForm6" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server"><br /><br />
-    <table align="center" style="width: 50%">
+    <table align="center" style="width: 50%; background-color: #FFFFFF;">
         <tr>
             <td style="color: #FF0000">Eid</td>
             <td>
