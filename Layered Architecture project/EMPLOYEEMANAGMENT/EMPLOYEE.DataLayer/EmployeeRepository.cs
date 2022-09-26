@@ -14,7 +14,7 @@ namespace EMPLOYEE.DataLayer
 {
     public class EmployeeRepository
     {
-        SqlConnection connection = new SqlConnection(ConfigurationManager.ConnectionStrings["virtusaDBConn"].ConnectionString);
+        SqlConnection connection = new SqlConnection(ConfigurationManager.ConnectionStrings["DBConn"].ConnectionString);
         SqlCommand command = null;
       
 

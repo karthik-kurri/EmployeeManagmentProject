@@ -8,3 +8,13 @@ E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.DataLayer\obj\Debug\EM
 E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.DataLayer\obj\Debug\EMPLOYEE.DataLayer.csproj.CopyComplete
 E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.DataLayer\obj\Debug\EMPLOYEE.DataLayer.dll
 E:\.net\layered archit project\EMPLOYEEMANAGMENT\EMPLOYEE.DataLayer\obj\Debug\EMPLOYEE.DataLayer.pdb
+E:\.net\EmployeeManagmentProject\Layered Architecture project\EMPLOYEEMANAGMENT\EMPLOYEE.DataLayer\bin\Debug\EMPLOYEE.DataLayer.dll.config
+E:\.net\EmployeeManagmentProject\Layered Architecture project\EMPLOYEEMANAGMENT\EMPLOYEE.DataLayer\bin\Debug\EMPLOYEE.DataLayer.dll
+E:\.net\EmployeeManagmentProject\Layered Architecture project\EMPLOYEEMANAGMENT\EMPLOYEE.DataLayer\bin\Debug\EMPLOYEE.DataLayer.pdb
+E:\.net\EmployeeManagmentProject\Layered Architecture project\EMPLOYEEMANAGMENT\EMPLOYEE.DataLayer\bin\Debug\EMPLOYEE.Entities.dll
+E:\.net\EmployeeManagmentProject\Layered Architecture project\EMPLOYEEMANAGMENT\EMPLOYEE.DataLayer\bin\Debug\EMPLOYEE.Entities.pdb
+E:\.net\EmployeeManagmentProject\Layered Architecture project\EMPLOYEEMANAGMENT\EMPLOYEE.DataLayer\obj\Debug\EMPLOYEE.DataLayer.csproj.AssemblyReference.cache
+E:\.net\EmployeeManagmentProject\Layered Architecture project\EMPLOYEEMANAGMENT\EMPLOYEE.DataLayer\obj\Debug\EMPLOYEE.DataLayer.csproj.CoreCompileInputs.cache
+E:\.net\EmployeeManagmentProject\Layered Architecture project\EMPLOYEEMANAGMENT\EMPLOYEE.DataLayer\obj\Debug\EMPLOYEE.DataLayer.csproj.CopyComplete
+E:\.net\EmployeeManagmentProject\Layered Architecture project\EMPLOYEEMANAGMENT\EMPLOYEE.DataLayer\obj\Debug\EMPLOYEE.DataLayer.dll
+E:\.net\EmployeeManagmentProject\Layered Architecture project\EMPLOYEEMANAGMENT\EMPLOYEE.DataLayer\obj\Debug\EMPLOYEE.DataLayer.pdb
