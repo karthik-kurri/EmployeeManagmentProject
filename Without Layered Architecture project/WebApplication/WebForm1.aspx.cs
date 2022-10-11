@@ -10,7 +10,7 @@ namespace WebApplication
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
-        SqlConnection connection = new SqlConnection(ConfigurationManager.ConnectionStrings["VirtusaDBConnection"].ConnectionString);
+        SqlConnection connection = new SqlConnection(ConfigurationManager.ConnectionStrings["DBConnection"].ConnectionString);
         SqlCommand command = null;
         protected void Page_Load(object sender, EventArgs e)
         {
